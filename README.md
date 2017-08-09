@@ -2,4 +2,4 @@
 
 > Playing with Jest
 
-Jest GitHub: https://github.com/facebook/jest
+Jest GitHub repository: https://github.com/facebook/jest

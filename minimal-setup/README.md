@@ -11,3 +11,7 @@ Run tests (on watch mode):
 ```console
 yarn test:watch
 ```
+
+## License
+
+MIT &copy; Fernando Daciuk

@@ -1,5 +1,7 @@
 'use strict'
 
 it('snapshot', () => {
-  expect({}).toMatchSnapshot()
+  expect({
+    test: 1
+  }).toMatchSnapshot()
 })

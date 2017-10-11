@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "test": "jest --coverage"
+    "test": "jest --coverage",
+    "lint": "echo 'Running lint...' && standard --verbose | snazzy && 'Lint ok!\n'"
   },
   "dependencies": {
     "jest": "^21.2.1",

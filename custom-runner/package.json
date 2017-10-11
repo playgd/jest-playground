@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "test": "jest --coverage"
+  },
   "dependencies": {
     "jest": "^21.2.1",
     "snazzy": "^7.0.0",

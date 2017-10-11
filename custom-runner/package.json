@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "jest": "^21.2.1",
+    "snazzy": "^7.0.0",
+    "standard": "^10.0.3"
+  }
+}

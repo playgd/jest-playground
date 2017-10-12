@@ -1,5 +1,5 @@
 'use strict'
 
 module.exports = {
-  runner: './jest-runner.js'
+  runner: './custom-runner.js'
 }

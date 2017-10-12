@@ -2,14 +2,16 @@
   "scripts": {
     "test": "jest --coverage",
     "test:watch": "yarn test -- --watch",
-    "lint": "echo 'Running lint...' && standard --verbose | snazzy && 'Lint ok!\n'"
+    "lint": "standard --verbose"
   },
   "standard": {
-    "globals": ["it", "expect"]
+    "globals": [
+      "it",
+      "expect"
+    ]
   },
   "dependencies": {
     "jest": "^21.2.1",
-    "snazzy": "^7.0.0",
     "standard": "^10.0.3"
   }
 }

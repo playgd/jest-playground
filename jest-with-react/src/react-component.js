@@ -1,9 +1,8 @@
 'use strict'
 
-import React from 'react'
+import React, { Component, PureComponent } from 'react'
+import './style.css'
 
-const Component = () => (
-  <h1>Title</h1>
+export default () => (
+  <h1>Function Component</h1>
 )
-
-export default Component
